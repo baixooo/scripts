@@ -5,11 +5,10 @@ local LocalPlayer = Players.LocalPlayer
 
 -- Map de jogos: PlaceId -> URL do Script
 local Games = {
-    [109629391874197] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/mo.lua",           -- Marvel Omega
-    [142823291] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/mm2.lua",          -- Murder Mystery 2
-    [121255181515820] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/pcdkkkkkkkkkkkk.lua", -- Pillar Chase Recode
-    [3082002798] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ttb.lua",          -- T-Titans Battlegrounds
-    [893973440] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ftf.lua"           -- Flee The Facility
+    [109629391874197] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/mo.lua", -- Marvel Omega
+    [142823291] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/mm2.lua", -- Murder Mystery 2
+    [3082002798] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ttb.lua", -- T-Titans Battlegrounds
+    [893973440] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ftf.lua" -- Flee The Facility
 }
 
 -- Dicionário de fallback para garantir traduções exatas
