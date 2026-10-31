@@ -8,7 +8,8 @@ local Games = {
     [109629391874197] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/mo.lua", -- Marvel Omega
     [142823291] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/mm2.lua", -- Murder Mystery 2
     [3082002798] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ttb.lua", -- T-Titans Battlegrounds
-    [893973440] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ftf.lua" -- Flee The Facility
+    [893973440] = "https://raw.githubusercontent.com/baixooo/scripts/refs/heads/main/ftf.lua", -- Flee The Facility
+    [4580204640] = "" -- Survive The Killer
 }
 
 -- Dicionário de fallback para garantir traduções exatas
